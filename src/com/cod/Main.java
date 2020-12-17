@@ -21,7 +21,7 @@ public static void main(String[] args)
   }
 }
 
-public static boolean metodo1(String u)
+public static boolean Metodo(String u)
 {
 Auxiliar obx1 = new Auxiliar(u);
 System.out.println("Conectando a " + obx1.h + ", con el usuario " + u);
