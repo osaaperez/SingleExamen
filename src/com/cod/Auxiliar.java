@@ -1,7 +1,7 @@
 package com.cod;
 public class Auxiliar
 {
-    String e = "e";
+    String e = "";
     String h = "127.0.0.2";
     Auxiliar()
     {
